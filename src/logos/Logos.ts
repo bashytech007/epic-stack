@@ -19,7 +19,7 @@ import testingLibrary from './testing-library.png'
 import typescript from './typescript.svg'
 import vitest from './vitest.svg'
 import zod from './zod.svg'
-import rodri from './rodri.webp'
+// import rodri from './rodri.webp'
 
 export { EpicStackLogo } from './epic-stack'
 
